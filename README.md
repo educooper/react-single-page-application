@@ -1,9 +1,9 @@
 <h1 align="center">Projeto - Criando uma SPA Single Page Application com React</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/educooper/react-dio-spa?color=green"> 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/educooper/react-dio-spa?color=56BEB8">
- <img alt="Repository size" src="https://img.shields.io/github/repo-size/educooper/react-dio-spa?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/educooper/react-single-page-application?color=green"> 
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/educooper/react-single-page-application?color=56BEB8">
+ <img alt="Repository size" src="https://img.shields.io/github/repo-size/educooper/react-single-page-application?color=56BEB8">
 
 
 
@@ -46,31 +46,21 @@ Antes de iniciar :checkered_flag:, você precisa ter instalado o [Git](https://g
 
 ```bash
 # Crie novo app em react
-$ npx create-react-app react-dio-spa
+$ npx create-react-app react-single-page-application
 
 # Clone este projeto
-$ git clone https://github.com/educooper/react-dio-spa
+$ git clone https://github.com/educooper/react-single-page-application
 
 # Acesse
-$ cd react-dio-spa
+$ cd react-single-page-application
+
+# Reindexação do projeto
+$ npm I
 
 # Execute o projeto
 $ npm start
 
 Acesse [http://localhost:3000](http://localhost:3000)
-
-```
-
-Muito Obrigado [Digital Innovation One](https://web.digitalinnovation.one/) por essa oportunidade!
-
-<a href="#top">Voltar ao Topo</a>
-
-
-# Acesse
-$ cd react-dio-spa
-
-# Execute o projeto
-$ npm i
 
 ```
 
